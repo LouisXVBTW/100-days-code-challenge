@@ -1,0 +1,7 @@
+.theme-dark{
+  --header-primary = 'red';
+}
+
+* {
+  background-color: 'blue' !important;
+}
